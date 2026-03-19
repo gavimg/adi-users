@@ -1,0 +1,13 @@
+.users-app {
+  padding: 2rem;
+  background: #e0f2fe;
+  min-height: 100vh;
+}
+
+.users-app__title {
+  margin: 0 0 0.5rem;
+}
+
+.users-app__description {
+  margin: 0;
+}

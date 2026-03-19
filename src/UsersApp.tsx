@@ -1,10 +1,11 @@
 import React from 'react';
+import './UsersApp.css';
 
 const UsersApp: React.FC = () => {
   return (
-    <div style={{ padding: '2rem', background: '#e0f2fe', minHeight: '100vh' }}>
-      <h1>Users Module</h1>
-      <p>This is the adi-users micro-frontend.</p>
+    <div className="users-app">
+      <h1 className="users-app__title">Users Module</h1>
+      <p className="users-app__description">This is the adi-users micro-frontend.</p>
     </div>
   );
 };
