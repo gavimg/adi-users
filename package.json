@@ -7,7 +7,9 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "@gadagi/types": "^1.0.1",
+    "@gadagi/design-system": "^1.0.1"
   },
   "devDependencies": {
     "@module-federation/enhanced": "^0.6.0",
